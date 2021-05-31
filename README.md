@@ -1,4 +1,6 @@
 # Markdown
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+
 ## What is Markdown?
 - [x] Markdown is lightweight makup language for generating HTML files
 - [x] Markdown is a way to style text on the web
